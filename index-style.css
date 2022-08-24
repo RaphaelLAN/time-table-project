@@ -1,7 +1,9 @@
 h1 {
     color: rgba(30, 255, 0, 0.59);
     background-color: rgb(147, 197, 199);
-    background-image: url(time-table-project/ressources/color-pencil-1057104.jpg);
+    background-image: url(./ressources/color-pencil-1057104.jpg);
+    height: 200px;
+    width: auto;
 
 }
 p{
